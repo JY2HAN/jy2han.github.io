@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鸡汤推文 on 韩小牛的博客日记</title>
+    <link>https://jyhana.cn/post/</link>
+    <description>Recent content in 鸡汤推文 on 韩小牛的博客日记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://jyhana.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第三章: 牧羊少年奇幻之旅</title>
+      <link>https://jyhana.cn/post/chapter1-3/</link>
+      <pubDate>Wed, 13 Oct 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://jyhana.cn/post/chapter1-3/</guid>
+      <description>When someone sees the same people every day, they wind up becoming a part of that person&amp;rsquo;s life. And then they want the person to change. If someone isn&amp;rsquo;t what others want them to be, the others become angry. Everyone seems to have a clear idea of how people should lead their lives, but none about his or her own.
+People say strange things, the boy thought. Sometimes it&amp;rsquo;s better to be with the sheep, who don&amp;rsquo;t say anything.</description>
+    </item>
+    
+    <item>
+      <title>第二章: 追风筝的人</title>
+      <link>https://jyhana.cn/post/chapter1-2/</link>
+      <pubDate>Fri, 12 Apr 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://jyhana.cn/post/chapter1-2/</guid>
+      <description>Hassan didn&amp;rsquo;t struggle.Didn&amp;rsquo;t evern whimper.He moved his head slightly and I caught a glimpse of his face.Saw the resignation in it.It was a look I had seen before.It was the look of the lamb. He knew I&amp;rsquo;d seen everything in that alley,that I&amp;rsquo;d stood there and done nothing.He knew I had betrayed him and yet he was rescuing me once again, maybe for the last time,I loved him in that moment,loved him more than I&amp;rsquo;d ever loved anyone,and I wanted to tell them all that I was the snake in the grass,the monster in the lake.</description>
+    </item>
+    
+    <item>
+      <title>第一章: 士兵突击</title>
+      <link>https://jyhana.cn/post/chapter1-1/</link>
+      <pubDate>Thu, 11 Oct 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://jyhana.cn/post/chapter1-1/</guid>
+      <description>列兵许三多，你必须记住，你是第四千九百五十六名钢七连的士兵！列兵许三多，有的连因 为某位战斗英雄而骄傲，有的连因为出了将军而骄傲，钢七连的骄傲是军人中最神圣的一种！ 钢七连因为上百次战役中战死沙场的英烈而骄傲！列兵许三多，钢七连的士兵必须记住那些 在五十一年连史中牺牲的前辈，你也应该用最有力的方式，要求钢七连的任何一员记住我们 的先辈！列兵许三多，抗美援朝时钢七连几乎全连阵亡被取消番号，被全连人掩护的三名列 兵却九死一生地归来。他们带回一百零七名烈士的遗愿在这三个平均年龄十七岁的年轻人身 上重建钢七连！（名人名言 www.lz13.cn）从此后钢七连就永远和他们的烈士活在一起了 ！列兵许三多，从这个意义上来说，我们是活在烈士的希望与荣誉之间的！列兵许三多，我 们是记载着前辈功绩的年轻部队，我们也是战斗的部队！</description>
+    </item>
+    
+    <item>
+      <title>第一节 VUE界面搭建</title>
+      <link>https://jyhana.cn/post/chapter2-1/</link>
+      <pubDate>Thu, 13 Oct 2016 11:15:58 -0400</pubDate>
+      
+      <guid>https://jyhana.cn/post/chapter2-1/</guid>
+      <description>今天主要是在做软件系统的登录界面，首先新建一个Login.vue，代码框架如下：
+模板块:
+&amp;lt;template&amp;gt;...&amp;lt;/template&amp;gt; 主要有系统登录主界面、登录框、背景图。其中登录框中还包括：标题、账号、密码、登录按钮。
+&amp;lt;div class=&amp;#34;ms-title&amp;#34;&amp;gt;&amp;lt;h3&amp;gt;图像处理系统&amp;lt;/h3&amp;gt;&amp;lt;/div&amp;gt; class=&amp;quot;ms-title&amp;quot;表示这一节块的样式遵循&amp;quot;ms-title&amp;quot;，那么在样式块.css中，一定有
+.ms-title {/*登录框的样式*/ width: 100%; line-height: 70px; text-align: center;/*/*图像处理系统的位置*/ font-size: 20px;/*图像处理系统的大小*/ color: #fff;/*图像处理系统的颜色*/ border-bottom: 1px solid ;/*分割线的颜色*/ } 用来控制这一块的形状、大小、字体、位置等。前端开发中真正用来编程的，是JavaScript板块【交互】，即：
+&amp;lt;script&amp;gt; export default { data: function() { ...... }, methods: { ...... }; &amp;lt;/script&amp;gt; JavaScript是一种高级的、解释型、直译式脚本语言，是一种基于原型、 函数先行的语言，是一门多范式的语言，它支持面向对象编程，命令式编程， 以及函数式编程。JavaScript是一种属于网络的脚本语言，已经被广泛用于 Web应用开发，常用来为网页添加各式各样的动态功能，为用户提供更流畅美 观的浏览效果。基于上面对前端板块的了解，我们设计出如下登 录界面：代码附录：
+ 模板块：  &amp;lt;template&amp;gt;&amp;lt;!--登陆界面--&amp;gt; &amp;lt;div class=&amp;#34;login-wrap&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;ms-login&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;ms-title&amp;#34;&amp;gt;&amp;lt;h3&amp;gt;图像处理系统&amp;lt;/h3&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;el-form :model=&amp;#34;param&amp;#34; :rules=&amp;#34;rules&amp;#34; ref=&amp;#34;login&amp;#34; label-width=&amp;#34;0px&amp;#34; class=&amp;#34;ms-content&amp;#34;&amp;gt;&amp;lt;!--输入框--&amp;gt; &amp;lt;el-form-item prop=&amp;#34;username&amp;#34;&amp;gt; &amp;lt;el-input v-model=&amp;#34;param.username&amp;#34; placeholder=&amp;#34;用户名/UserName&amp;#34;&amp;gt; &amp;lt;el-button slot=&amp;#34;prepend&amp;#34; icon=&amp;#34;el-icon-lx-people&amp;#34;&amp;gt;&amp;lt;/el-button&amp;gt; &amp;lt;/el-input&amp;gt; &amp;lt;/el-form-item&amp;gt; &amp;lt;el-form-item prop=&amp;#34;password&amp;#34;&amp;gt; &amp;lt;el-input type=&amp;#34;password&amp;#34; placeholder=&amp;#34;密码/Password&amp;#34; v-model=&amp;#34;param.</description>
+    </item>
+    
+  </channel>
+</rss>
